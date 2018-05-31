@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102095" started-at="2018-05-31T10:13:47Z" finished-at="2018-05-31T10:15:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102095" started-at="2018-05-31T10:13:47Z" finished-at="2018-05-31T10:15:30Z">
+      <class name="test.WebLogin">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.WebLogin@2b98378d]" name="init" is-config="true" duration-ms="95975" started-at="2018-05-31T10:13:47Z" finished-at="2018-05-31T10:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Login_funct()[pri:0, instance:test.WebLogin@2b98378d]" name="Login_funct" duration-ms="5454" started-at="2018-05-31T10:15:23Z" finished-at="2018-05-31T10:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_funct -->
+        <test-method status="PASS" signature="SuccesfulLogin()[pri:1, instance:test.WebLogin@2b98378d]" name="SuccesfulLogin" duration-ms="624" started-at="2018-05-31T10:15:29Z" finished-at="2018-05-31T10:15:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccesfulLogin -->
+      </class> <!-- test.WebLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
