@@ -20,7 +20,7 @@
     -  Select Help / Install New Software in Eclipse 
     -  Enter the update site URL in "Work with:" field:
     - Update site for release: http://beust.com/eclipse.
-      - Or, Update site for beta: http://beust.org/eclipse-beta , use it if you want to experiment with the new features or verify the bug fixes, and please report back if you encounter any issues.
+     
     - Make sure the check box next to URL is checked and click Next.
     - Eclipse will then guide you through the process.
   
@@ -32,7 +32,7 @@
      - Install- chromedriver_win32.zip . After Installing it, unzip the files in your system. And copy that exe file either in your C drive or any work directory.
      - Now just replace the value in the code  
            System.setProperty("webdriver.chrome.driver", "C:\\Users\\DOGETHER\\Desktop\\Website\\chromedriver.exe");
-           C:\\Users\\DOGETHER\\Desktop\\Website\\chromedriver.exe - Replace this value. Value should be where you have placed chromedriver.exe file in your system.
+           C:\\Users\\DOGETHER\\Desktop\\Website\\chromedriver.exe - Replace this value. Value should be the path where you have placed chromedriver.exe file in your system.
  * And at last, you are all set to run the script. Just right click and Select Run as TestNG.
  
 # Contact
